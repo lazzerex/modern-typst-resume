@@ -3,7 +3,7 @@
 A clean, professional, and modern resume template built with [Typst](https://typst.app/), the modern alternative to LaTeX. Features a contemporary design with color-coded sections, skill badges, and project cards.
 
 ## Resume Preview
-**[View PDF Preview →](resume.pdf)**
+**[View PDF Preview →](modern-typst-resume/resume.pdf)**
 
 ## Features
 
