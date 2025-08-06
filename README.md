@@ -4,10 +4,13 @@ A clean, professional, and modern resume template built with [Typst](https://typ
 
 ## Resume Preview
 
-<img width="742" height="711" alt="image" src="https://github.com/user-attachments/assets/d4e50e44-6ee3-454f-94ec-bd6dd5c6ae7a" />
+<img width="981" height="710" alt="image" src="https://github.com/user-attachments/assets/6ab1f94e-347c-45d7-96e8-4854f498bd3b" />
 
-<img width="725" height="756" alt="image" src="https://github.com/user-attachments/assets/a1d40f76-5401-4109-b00e-e5c83b6b6fea" />
+<img width="967" height="481" alt="image" src="https://github.com/user-attachments/assets/424f5057-b956-4de5-af48-7662440ff965" />
 
+<img width="964" height="662" alt="image" src="https://github.com/user-attachments/assets/5fe26fec-0abc-4bd7-ab64-eac099442b90" />
+
+<img width="970" height="386" alt="image" src="https://github.com/user-attachments/assets/645ae574-f60a-4d7a-b7b4-d0d436316ae2" />
 
 ## Features
 
